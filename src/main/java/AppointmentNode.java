@@ -8,4 +8,5 @@ public class AppointmentNode {
         this.left = null;
         this.right = null;
     }
+
 }
